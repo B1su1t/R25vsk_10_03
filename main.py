@@ -1,1 +1,3 @@
-print("Deivids Časktens")
+x = input()
+print(x)
+print("Kate")
